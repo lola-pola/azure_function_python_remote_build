@@ -1,1 +1,4 @@
-azure-functions==1.9.0
+azure-functions
+azure-mgmt-compute
+azure-mgmt-storage
+azure-identity
